@@ -6,7 +6,7 @@
 
 local VERSION_LOCAL = 30.0
 -- REEMPLAZA ESTE LINK con tu link "Raw" de GitHub:
-local URL_SCRIPT = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/script.lua"
+local URL_SCRIPT = "https://raw.githubusercontent.com/alexgrim2899/Soul-Grim/refs/heads/main/SCRIP%20PRUEBA%201.lua"
 
 local USER_DB = "COLLECTOR"
 local PASS_DB = "2025"
