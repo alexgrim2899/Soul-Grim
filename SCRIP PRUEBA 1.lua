@@ -4,7 +4,7 @@
 -- DESARROLLADOR: ★THE★COLLECTOR★
 -- ==========================================
 
-local VERSION_LOCAL = 30.0
+local VERSION_LOCAL = 31.0
 -- REEMPLAZA ESTE LINK con tu link "Raw" de GitHub:
 local URL_SCRIPT = "https://raw.githubusercontent.com/alexgrim2899/Soul-Grim/refs/heads/main/SCRIP%20PRUEBA%201.lua"
 
